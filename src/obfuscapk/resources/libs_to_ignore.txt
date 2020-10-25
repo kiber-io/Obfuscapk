@@ -129,6 +129,7 @@ com/google/android/gms/
 com/google/android/net/
 com/google/android/vending/
 com/google/android/youtube/
+com/google/android/material/
 com/google/api/
 com/google/appinventor/
 com/google/common/
